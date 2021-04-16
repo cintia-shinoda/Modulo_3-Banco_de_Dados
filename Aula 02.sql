@@ -1,4 +1,4 @@
-                            -- AULA 02 - 26/03/2021 --
+                         -- AULA 02 - 26/03/2021 --
 
 /* 
             -- KAHOOT! SHIFT AULA 01: CONCEITOS INTRODUTÓRIOS --
